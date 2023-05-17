@@ -2,14 +2,11 @@
 
 ---
 
-Comment vas-tu ??? Pas facile cette saison ! Avec beaucoup de notions à assimiler mais tu progresses et ça c'est super à voir !
-Tu comprends l'architecture MVC ! 
+Comment vas-tu ? 😊 Pas facile cette saison ! Avec beaucoup de notions à assimiler, mais tu progresses et ça, c'est super à voir ! Tu comprends l'architecture MVC !
 
----
+## Routes
 
-### Routes
-
-Tu as compris le fonctionnement pas de doute mais attention à bien suivre les consignes, ta pages d'accueil n'est pas sur la route indiqué sur le document fournis elle pointe sur /home au lieu de /.
+Tu as bien compris le fonctionnement, pas de doute là-dessus, mais attention à bien suivre les consignes. Ta page d'accueil ne correspond pas à la route indiquée dans le document fourni. Elle pointe vers `/home` au lieu de `/`.
 
 ```php
 $router->map(
@@ -23,22 +20,23 @@ $router->map(
 );
 ```
 
-Globalement rien à redire tu as compris le fonctionnement des routes en GET et POST et ton ajout en bdd via la methode POST est presque bon!
 
 ---
 
-* Petite indication dans ta fonction StudentAdd()  de ton StudendController il manque la gestion de ton "teacher" ;) (la colone teacher_id dans ta bdd).
+**Globalement, rien à redire.** Tu as bien compris le fonctionnement des routes en GET et POST, et ton ajout en base de données via la méthode POST est presque bon !
 
-* Attention au copié collé non corrigé, dans ton teacherController une fonction studentAdd c'est risqué !!!! ;-);
+Quelques indications:
+
+- Petite indication dans la fonction `StudentAdd()` de ton `StudentController`: il manque la gestion du champ "teacher" 😉 (la colonne `teacher_id` dans ta base de données).
+- Attention au copié-collé non corrigé dans ton `TeacherController`: une fonction `studentAdd` est risquée !!!! 😅
+
+Ressources supplémentaires:
+
+Pour assimiler toutes ces nombreuses notions vues cette saison, tu peux regarder du côté de **Kourou**! Les épisodes 2 et 3 de cette saison 6 t'aideront à revoir et pratiquer ces notions:
+
+- [Épisode 2 - Backoffice Insert](lien_vers_l'épisode_2)
+- [Épisode 3 - Backoffice Update](lien_vers_l'épisode_3)
+
+N'hésite pas à t'entraîner à refaire les challenges. La pratique est le meilleur moyen de retenir!
 
 ---
-
-Pour assimiler toutes ces nombreuses notions vu cette saison tu peux regarder du coté de Kourou!
-
-les episodes 2 et 3 de cette saison 6 t'aiderons a revoir et pratiquer ces notions 
-
-[https://kourou.oclock.io/ressources/recap-quotidien/nazca-s06e02-backofficeinsert/]
-[https://kourou.oclock.io/ressources/recap-quotidien/nazca-s06e03-backofficeupdate/]
-
-N'hésites pas à t'entrainer a refaire les challenges, la pratique il n'y a rien de mieux pour retenir !
-

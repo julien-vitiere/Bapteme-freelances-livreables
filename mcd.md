@@ -1,29 +1,22 @@
-# Alors Les mcd compris ou compris ? ;) 
+# Alors Les mcd compris ou compris ? 😅
 
 ---
 
-Avant toute chose tu peux jetter un coups d'oeil à la fiche récape de Kourou .
+### Prenons par étapes !
 
-[https://kourou.oclock.io/ressources/fiche-recap/mcd-modele-conceptuel-de-donnees/]
-
----
-
-
-Prenons par étapes !
-
-1. Tes entités sont bien dans des rectangles ( ADRESS,ORDER,USER,Product) good job !
+1. Tes entités sont bien dans des rectangles ( ADRESS,ORDER,USER,PRODUCT) good job !
 
 2. Les Attributs sont bien listés sous les Entités (exemple email,password) Attention!!! Pas d'id par ici tu peux les retirer c'est un attribu purement technique qui n'a pas sa place dans le mcd!
 Autre detail les attributs doivent etre en langue naturel avec des espaces et sans underscore). 
 
-**exemple** = *"postal_code" devient "Code Postal" ;).*
+**exemple** = *"postal_code" devient "Code Postal" .*
 
-*pssss : ! Tu as une adresse en entité mais une adresse en attributs, peut-être faudrai t'il changé la deuxieme ... une RUE c'est pas mal aussi ;)*
+*pssss : ! Tu as une adresse en entité et une adresse en attributs, peut-être faudrai t'il changer la deuxieme ... une RUE c'est pas mal aussi*
 
-1. Tes associations doivent être représentées par un rectangle arrondi et nommées par un verbe.
+3. Tes associations doivent être représentées par un rectangle arrondi et nommées par un verbe.
 il va falloir mettre des rondeurs là dedans ;)  .
 
-1. Concernant les cardinalités petit résumé de Kourou bien util. 
+4. Concernant les cardinalités petit résumé de Kourou bien util. 
 ---
 
 **Cardinalités**  :
@@ -49,7 +42,7 @@ Partant de là, les valeurs possibles pour les cardinalités sont : (0,1) (1,1) 
 **n** = plusieur.
 
 ---
-D'aprés ton context un utilisateur peut avoir une adresse au minimum ou plusieur adresse au maximum mais une adresse appartien forcément à un utilisateur et au maximum à un seul utilisateur !
+D'aprés ton context un utilisateur peut avoir une adresse au minimum ou plusieur adresse au maximum mais une adresse appartient forcément à un utilisateur et au maximum à un seul utilisateur !
 
 
 ce qui voudrait dire que ...... l'on serait plus sur du **"ADDRESS 1,1 HAS 1,N USER"** non ? ;) .
@@ -67,5 +60,12 @@ Utilisateur: _email, mot de passe
 
 ---
 
-C'est du bon boulot hein !!!! Et il faut continuer à pratiquer pour s'habituer !!!!
+C'est du bon boulot!!!! Et il faut continuer à pratiquer pour s'habituer !!!!
 Ne lache rien et n'hésite pas à me partager ta correction quand tu l'auras finie  ;) .
+
+
+
+
+*Petite aide non négligeable, tu peux te rendre du coté de  la fiche récape de Kourou .*
+[https://kourou.oclock.io/ressources/fiche-recap/mcd-modele-conceptuel-de-donnees/]
+
