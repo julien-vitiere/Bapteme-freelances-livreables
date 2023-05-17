@@ -19,5 +19,5 @@ Voici les retours concernant les parcours des apprenant.e.s :
 
 ## Apprenant.e 4
 
-- Feedback : L'apprenant.e a rendu un travail mais il semble qu'il se soit perdu dans les notions de base de cette saison. Son travail semble provenir d'un copié collé sans reelement comprendre les actions par étapes.
+- L'apprenant.e a rendu un travail mais il semble qu'il se soit perdu dans les notions de base de cette saison. Son travail semble provenir d'un copié collé sans reelement comprendre les actions par étapes.
 - Badge : 🟠 Insuffisant pour Valider
