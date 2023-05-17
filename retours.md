@@ -14,7 +14,7 @@ Voici les retours concernant les parcours des apprenant.e.s :
 
 ## Apprenant.e 3
 
-- F- L'apprenant.e a fait preuve d'une bonne compréhension globale des concepts abordés. Il/elle a assimilé les notions clés de la saison mais doit maintenir le travail et pratiquer pour produir également plus rapidement du code.
+- L'apprenant.e a fait preuve d'une bonne compréhension globale des concepts abordés. Il/elle a assimilé les notions clés de la saison mais doit maintenir le travail et pratiquer pour produir également plus rapidement du code.
 - Badge : 🟡 Des Choses à Travailler
 
 ## Apprenant.e 4
