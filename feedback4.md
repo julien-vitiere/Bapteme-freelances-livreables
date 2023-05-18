@@ -64,4 +64,3 @@ Par ici, tu auras un rappel sur les héritages et les méthodes statiques:
 N'hésite pas à faire fonctionner l'entraide en cas de doute dans ta correction ou à revenir vers nous !
 
 S'il te reste du temps et de l'énergie, tu peux en profiter pour refaire les challenges de cette saison en les améliorant ! La pratique, c'est la meilleure façon de retenir !
-```

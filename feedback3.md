@@ -27,7 +27,7 @@ $router->map(
 
 Quelques indications:
 
-- Petite indication dans la fonction `StudentAdd()` de ton `StudentController`: il manque la gestion du champ "teacher" 😉 (la colonne `teacher_id` dans ta base de données).
+- Dans la fonction `StudentAdd()` de ton `StudentController`: il manque la gestion du champ "teacher" 😉 (la colonne `teacher_id` dans ta base de données).
 - Attention au copié-collé non corrigé dans ton `TeacherController`: une fonction `studentAdd` est risquée !!!! 😅
 
 Ressources supplémentaires:

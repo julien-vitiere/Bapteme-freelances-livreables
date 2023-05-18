@@ -11,7 +11,7 @@ Autre detail les attributs doivent etre en langue naturel avec des espaces et sa
 
 **exemple** = *"postal_code" devient "Code Postal" .*
 
-*pssss : ! Tu as une adresse en entité et une adresse en attributs, peut-être faudrai t'il changer la deuxieme ... une RUE c'est pas mal aussi*
+*pssss  ! Tu as une adresse en entité et une adresse en attributs, peut-être faudrai t'il changer la deuxieme ... une RUE c'est pas mal aussi*
 
 3. Tes associations doivent être représentées par un rectangle arrondi et nommées par un verbe.
 il va falloir mettre des rondeurs là dedans ;)  .
